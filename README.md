@@ -1,17 +1,35 @@
-# number_pop
+# Number Pop
 
-A new Flutter project.
+Number Pop is a simple Flutter-based math game where the player has to solve equations by popping the bubble that contains the correct answer. The goal is to make basic math practice more interactive and game-like.
 
-## Getting Started
+The APK download link is attached in the repository description. You can directly install the APK on an Android device and play the game without setting up the source code.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Math-based bubble popping gameplay
+- Equation shown on screen
+- Multiple answer bubbles
+- Player must pop the bubble with the correct answer
+- Built using Flutter
+- Android APK support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## How to Install the APK on Android
+
+The APK file is provided through the link attached in the repository description.
+
+### Steps to Install
+
+1. Open the APK download link from the repository description.
+
+2. Download the APK file on your Android phone.
+
+3. After downloading, tap on the APK file.
+
+4. Android may show a warning like:
+
+   ```text
+   For your security, your phone is not allowed to install unknown apps from this source.
